@@ -44,7 +44,7 @@ body {
 }
 
 i.fa.fa-newspaper-o::before, i.fa.fa-leaf::before{
-  color: green;
+  color: #308251;
 }
 
 nav.navbar {
@@ -56,5 +56,9 @@ a.nav-link {
 }
 
 a.navbar-brand {
-  color: green;
+  color: #308251;
+}
+
+footer.footer {
+  background-color: #272727;
 }
