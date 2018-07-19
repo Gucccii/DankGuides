@@ -39,6 +39,10 @@ body {
   padding-bottom: 1.5rem;
 }
 
-i.fa.fa-newspaper-o::before {
+.recent-title {
+  margin-top: 50px;
+}
+
+i.fa.fa-newspaper-o::before, i.fa.fa-leaf::before{
   color: green;
 }
