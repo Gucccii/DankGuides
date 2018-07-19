@@ -46,3 +46,15 @@ body {
 i.fa.fa-newspaper-o::before, i.fa.fa-leaf::before{
   color: green;
 }
+
+nav.navbar {
+  background-color: #272727;
+}
+
+a.nav-link {
+  color: #fff;
+}
+
+a.navbar-brand {
+  color: green;
+}
