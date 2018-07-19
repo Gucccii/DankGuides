@@ -22,3 +22,23 @@ body {
 .centered-text {
   text-align: center;
 }
+
+.home-content {
+  padding-top: 4rem;
+  padding-bottom: 10rem;
+}
+
+.card-title {
+  font-size: 26px;
+  color: #444444;
+}
+
+.featured-title, .recent-title {
+  font-size: 2rem;
+  text-align: center;
+  padding-bottom: 1.5rem;
+}
+
+i.fa.fa-newspaper-o::before {
+  color: green;
+}
